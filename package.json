@@ -6,7 +6,6 @@
     "generate": "nuxi generate",
     "preview": "nuxi preview",
     "prepare": "husky install",
-    "postinstall": "nuxt prepare",
     "lint": "eslint . --fix"
   },
   "lint-staged": {
